@@ -20,7 +20,7 @@
 >vim new.xml    ---> input data ---> esc ---> enter ":wq"
 
 **8. Отправить изменения на внешний репозиторий**
->git commit -am "add name, age, salary" && git push
+>git commit -am "add new information" && git push
 
 **9. Создать файл preferences.xml**
 >touch preferences.xml
@@ -34,7 +34,7 @@
 >vim skills.xml ---> insert data ---> esc ---> enter ":wq"
 
 **12. Отправить сразу 2 файла на внешний репозиторий**
->git add . && git commit -m "add new information" && git push
+>git add . && git commit -m "add 2 files" && git push
 
 **13. На веб интерфейсе создать файл bug_report.xml**
 >Add file --> Create new file --> Name: bug_report.xml
