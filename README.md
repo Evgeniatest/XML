@@ -2,7 +2,7 @@
 **1. Создать внешний репозиторий c названием XML**
 
 **2. Клонировать репозиторий XML на локальный компьютер**
-> git clone https://github.com/Evgeniatest/JSON.git
+> git clone https://github.com/Evgeniatest/XML.git
 
 **3. Внутри локального XML создать файл “new.json”**
 >touch new.xml
