@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report_structure>
+    <ID>,баг_id</ID>
+    <summary>краткое описание</summary>
+    <Environment>окружение</Environment> 
+    <severity>серьезность</severity>
+    <priority>приоритет</priority>
+    <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
+    <actual_result>фактический результат</actual_result>
+    <expected_result>ожидаемый результат</expected_result>
+    <attachments>дополнения</attachments>
+</bug_report_structure>
